@@ -1,5 +1,6 @@
 # Data Exploration
-I have done 2 explorations on different datasets. The first one is about a covid dataset. I explored about the percentage of people that is infected with the overall population. 
+I have done 2 explorations on different datasets. 
+The first one is about a covid dataset. I explored about the percentage of people that is infected with the overall population. 
 I also explored about the number of people vaccinated with a rolling count to make visualizations look better.
 In the end of my exploration I created views that later will be used for data viz in Tableu
 Dataset URL = https://ourworldindata.org/coronavirus/country/indonesia
